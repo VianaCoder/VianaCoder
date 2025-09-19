@@ -2,13 +2,13 @@
 
 I currently work in system architecture, having extensive experience in both development and systems.
 
-- 🔭 Currently working on: **System Architecture** at **GoCache**.
-- 🌱 Learning: **Golang** and **Artificial Intelligence**
+- 🔭 Currently working on: **Cloud Architecture Consultant** at **Vivo 💜**.
+- 🌱 Learning: **Golang**
 - 💼 Certifications: **Oracle Cloud AI Associate 2024**, **Product Manager** and **Google Workspace Admin**
-- 💬 Ask me about: **Node.js, Google Apps Script, APIs, Automation, System Architecture, and AI**
+- 💬 Ask me about: **Cloud, Azure, KubernetesNode.js, Google Apps Script, APIs, Automation, System Architecture, and AI**
 - 📫 How to contact me: **[LinkedIn](https://www.linkedin.com/in/gvianalourenco/)** or you can shoot me an email at **gvianalourenco@gmail.com**.
 - ⚡ Fun fact: I'm a tech enthusiast and love testing new gadgets and software.
-- 🛠️ System: Linux, I enjoy testing various distros, but I give in to Windows for gaming.
+- 🛠️ System: Linux, I enjoy testing various distros, but I give in to Windows for gaming (kkkkring).
 
 ---
 
