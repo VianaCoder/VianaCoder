@@ -31,6 +31,27 @@ I currently work in system architecture, having extensive experience in both dev
 
 ---
 
+## ✍️ Engineering Essays
+
+I write long-form essays about **Software Architecture, Platform Engineering and AI-Native Systems**.
+
+📄 **Latest Article**
+
+🚀 **AI-Native Architecture**  
+How software engineering is transitioning from writing software to designing systems capable of producing software.
+
+👉 https://github.com/VianaCoder/archtech-essays
+
+Exploring topics such as:
+
+- AI-Native Architecture
+- Platform Engineering
+- Complex Adaptive Systems
+- Architecture as a Product
+- The Post-Code Era
+
+---
+
 ## 💡 Let's Connect!
 
 <p align="left">
